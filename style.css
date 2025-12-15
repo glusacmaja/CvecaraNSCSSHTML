@@ -7,7 +7,7 @@
 nav ul {
     list-style-type: none;
     margin: 0;
-    padding: 0px 20px;
+    padding: 0 20px;
     overflow: hidden;
     background-color: white;
     border: 2px solid #c84771;
@@ -62,7 +62,7 @@ nav li a:hover {
 }
 
 .textpocetna p{
-  padding: 0px 110px;
+  padding: 0 110px;
   font-family: mojfonttextpocetna;
   font-size: 18px;
 }
@@ -93,7 +93,7 @@ nav li a:hover {
 footer ul {
   list-style-type: none;
   margin: 0;
-  padding: 0px 20px;
+  padding: 0 20px;
   overflow: hidden;
   background-color: white;
   border: 2px solid #c84771;
@@ -135,7 +135,7 @@ footer li a {
   }
   
   .textpocetna p{
-    padding: 0px 70px;
+    padding: 0 70px;
     font-size: 14px;
   }
    footer img{
@@ -148,4 +148,5 @@ footer li a {
     display:flex;
     float: left;
    }
+
 }
